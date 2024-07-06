@@ -48,7 +48,7 @@ const StyledSlider = styled(Slider)(
     },
   })
 );
-
+ 
 interface SlideItemProps {
   item: Movie;
 }

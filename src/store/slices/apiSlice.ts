@@ -5,4 +5,4 @@ export const tmdbApi = createApi({
   reducerPath: "tmdbApi",
   baseQuery: fetchBaseQuery({ baseUrl: API_ENDPOINT_URL }),
   endpoints: (build) => ({}),
-});
+}); 

@@ -17,4 +17,4 @@ export const varWrapBoth = {
   exit: {
     transition: { staggerChildren: 0.05, staggerDirection: -1 },
   },
-};
+};  

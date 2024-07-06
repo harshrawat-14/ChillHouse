@@ -11,4 +11,4 @@ export const varFadeOut = {
   initial: { opacity: 1 },
   animate: { opacity: 0, transition: TRANSITION_ENTER },
   exit: { opacity: 1, transition: TRANSITION_EXIT },
-};
+}; 
